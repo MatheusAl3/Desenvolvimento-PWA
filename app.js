@@ -1,0 +1,1 @@
+const itensList = document.querySelector('.itens-list');
